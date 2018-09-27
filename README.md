@@ -10,14 +10,11 @@ Given the sometimes abstract nature of science, teaching in inner London schools
 
 It was also imperative that I communicated effectively with my fellow colleagues regarding any concerns about students and how to best support them. As a result of our efforts, our students achieved half a grade higher compared to similar students nationally in their Combined Science GCSE in 2018.
 
-#### Another Skill
+#### Disciplined
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During the summer of 2014, I joined the weightlifting club at university. The club was due to compete at a regional competition in December and despite the competition date being 6 months away, my strength was far from where I wanted it to be. In this time leading up to the competition, I was required to attend rigorous training sessions five days a week, maintain a strict eating schedule in order to put on weight and make sure that I kept a consistent sleep schedule to allow my body to recover. This discipline and dedication led me to place amongst the Top 10 in the competition.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Since then, I have been able to implement this level of discipline to my career as a teacher as well as my own training in powerlifting.
 
 ## Education
 
@@ -41,8 +38,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - BEng Hons Material Science & Engineering, specialising in Medical Materials
 - 2:1
-
-#### Any other qualifications
 
 ## Experience
 
