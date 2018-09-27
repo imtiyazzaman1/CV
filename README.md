@@ -50,5 +50,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **London Design & Engineering UTC** (September 2017 - August 2018)    
 *Teacher of Science & Engineering*  
+
 **Brampton Manor Academy** (July 2016 - August 2017)   
 *Teacher of Science*
+
+## Interests
+
+- Weightlifting & Powerlifting
+- Reading
+- Photography
