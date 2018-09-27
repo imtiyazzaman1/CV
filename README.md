@@ -1,16 +1,14 @@
-## Your Name
+## Imtiyaz Zaman
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Given the sometimes abstract nature of science, teaching in inner London schools honed my ability to communicate challenging concepts to my students in meaningful and insightful ways. This also allowed me to develop my ability to question effectively, a skill I used to identify the misconceptions my students had, in order to inform the direction my lessons needed to take.
 
-- Experience
-- Achievements
-- Evidence
+It was also imperative that I communicated effectively with my fellow colleagues regarding any concerns about students and how to best support them. As a result of our efforts, our students achieved half a grade higher compared to similar students nationally in their Combined Science GCSE in 2018.
 
 #### Another Skill
 
