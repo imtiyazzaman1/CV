@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2018 to December 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### King’s College London (September 2015 - June 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- PGCE, Chemistry
+- Pass
+
+#### Queen Mary University of London (September 2012 - June 2015)
+
+- BEng Hons Material Science & Engineering, specialising in Medical Materials
+- 2:1
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**London Design & Engineering UTC** (September 2017 - August 2018)    
+*Teacher of Science & Engineering*  
+**Brampton Manor Academy** (July 2016 - August 2017)   
+*Teacher of Science*
