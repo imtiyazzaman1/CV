@@ -14,7 +14,13 @@ It was also imperative that I communicated effectively with my fellow colleagues
 
 During the summer of 2014, I joined the weightlifting club at university. The club was due to compete at a regional competition in December and despite the competition date being 6 months away, my strength was far from where I wanted it to be. In this time leading up to the competition, I was required to attend rigorous training sessions five days a week, maintain a strict eating schedule in order to put on weight and make sure that I kept a consistent sleep schedule to allow my body to recover. This discipline and dedication led me to place amongst the Top 10 in the competition.
 
-Since then, I have been able to implement this level of discipline to my career as a teacher as well as my own strength & conditioning training
+Since then, I have been able to implement this level of discipline to my career as a teacher as well as my own strength & conditioning training.
+
+#### Problem Solving
+
+While teaching, I had to deal very quickly with unpredictable problems in a classroom, from  managing with technical difficulties to resolving fights and disputes, while minimising the disruption posed to the rest of the class. For instances, during a network crash, lesson resources were unavailable and I was left to teach for 100 mins with a whiteboard, a pen and my wits.
+
+My problems solving skills are also reflected in my approach to my strength and conditioning training. I suffered several injuries from weightlifting and rather than giving up on the progress I had made, I took it upon myself to identify the specific muscles I had injured, how to rehabilitate them and how to prevent any similar injuries reoccurring.
 
 ## Education
 
@@ -32,12 +38,10 @@ Since then, I have been able to implement this level of discipline to my career 
 #### King’s College London (September 2015 - June 2016)
 
 - PGCE, Chemistry
-- Pass
 
 #### Queen Mary University of London (September 2012 - June 2015)
 
-- BEng Hons Material Science & Engineering, specialising in Medical Materials
-- 2:1
+- BEng Hons Material Science & Engineering, specialising in Medical Materials (2:1)
 
 ## Experience
 
