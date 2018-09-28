@@ -14,7 +14,7 @@ It was also imperative that I communicated effectively with my fellow colleagues
 
 During the summer of 2014, I joined the weightlifting club at university. The club was due to compete at a regional competition in December and despite the competition date being 6 months away, my strength was far from where I wanted it to be. In this time leading up to the competition, I was required to attend rigorous training sessions five days a week, maintain a strict eating schedule in order to put on weight and make sure that I kept a consistent sleep schedule to allow my body to recover. This discipline and dedication led me to place amongst the Top 10 in the competition.
 
-Since then, I have been able to implement this level of discipline to my career as a teacher as well as my own training in powerlifting.
+Since then, I have been able to implement this level of discipline to my career as a teacher as well as my own strength & conditioning training
 
 ## Education
 
