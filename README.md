@@ -1,5 +1,7 @@
 ## Imtiyaz Zaman
 
+[Skills](##skills) | [Education](##education) | [Experience](##experience) | [Interests](##Interests)
+
 A former science teacher,  gym enthusiast and all around tech nerd. I love challenging myself and solving problems and I’m excited to take this passion into a new industry. Currently a Fellowship student at Makers Academy, I’m interested in working in a supportive environment which can challenge me and help me grow as a developer
 
 ## Skills
