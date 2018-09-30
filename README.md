@@ -1,6 +1,6 @@
 ## Imtiyaz Zaman
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Skills](#skills) | [Projects](#Projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 A former science teacher,  gym enthusiast and all around tech nerd. I love challenging myself and solving problems and I’m excited to take this passion into a new industry. Currently a Fellowship student at Makers Academy, I’m interested in working in a supportive environment which can challenge me and help me grow as a developer
 
@@ -23,6 +23,12 @@ Since then, I have been able to implement this level of discipline to my career 
 While teaching, I had to deal very quickly with unpredictable problems in a classroom, from  managing with technical difficulties to resolving fights and disputes, while minimising the disruption posed to the rest of the class. For instances, during a network crash, lesson resources were unavailable and I was left to teach for 100 mins with a whiteboard, a pen and my wits.
 
 My problems solving skills are also reflected in my approach to my strength and conditioning training. I suffered several injuries from weightlifting and rather than giving up on the progress I had made, I took it upon myself to identify the specific muscles I had injured, how to rehabilitate them and how to prevent any similar injuries reoccurring.
+
+## Projects
+
+| Projects | Summary  | Technologies | Testing  |
+| -------- | -------- | ------------ | -------- |
+| [Fizzbuzz](https://github.com/imtiyazzaman1/fizzbuzz) | My first pair programming exercise at Makers | Ruby | RSpec |
 
 ## Education
 
