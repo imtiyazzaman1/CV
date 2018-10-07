@@ -29,6 +29,7 @@ My problems solving skills are also reflected in my approach to my strength and 
 | Projects | Summary  | Technologies | Testing  |
 | -------- | -------- | ------------ | -------- |
 | [Fizzbuzz](https://github.com/imtiyazzaman1/fizzbuzz) | My first pair programming exercise at Makers | Ruby | RSpec |
+| [Airport Challenge](https://github.com/imtiyazzaman1/airport_challenge) | My first weekend challenge at Makers | Ruby | RSpec |
 
 ## Education
 
@@ -53,10 +54,10 @@ My problems solving skills are also reflected in my approach to my strength and 
 
 ## Experience
 
-**London Design & Engineering UTC** (September 2017 - August 2018)    
-*Teacher of Science & Engineering*  
+**London Design & Engineering UTC** (September 2017 - August 2018)
+*Teacher of Science & Engineering*
 
-**Brampton Manor Academy** (July 2016 - August 2017)   
+**Brampton Manor Academy** (July 2016 - August 2017)
 *Teacher of Science*
 
 ## Interests
