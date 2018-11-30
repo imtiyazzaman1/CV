@@ -28,8 +28,6 @@ My problems solving skills are also reflected in my approach to my strength and 
 
 | Projects | Summary  | Technologies | Testing  |
 | -------- | -------- | ------------ | -------- |
-| [Fizzbuzz](https://github.com/imtiyazzaman1/fizzbuzz) | My first pair programming exercise at Makers | Ruby | RSpec |
-| [Airport Challenge](https://github.com/imtiyazzaman1/airport_challenge) | My first weekend challenge at Makers. Involved implementing TDD and OOD | Ruby | RSpec |
 
 ## Education
 
