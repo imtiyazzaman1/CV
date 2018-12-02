@@ -30,7 +30,7 @@ My problems solving skills are also reflected in my approach to my strength and 
 | -------- | -------- | ------------ | -------- |
 | [Chitter](https://github.com/imtiyazzaman1/chitter-challenge) | A twitter clone built using an MVC architecture | Ruby, HTML/CSS Sinatra, BCrypt, Postgresql | RSpec, Capybara |
 | [News Summary](https://github.com/imtiyazzaman1/news-summary-challenge) | A single page web app designed to display the headlines and summarise article from the Guardian | JavaScript, HTML/CSS | My own testing framework   |
-| [Acebook](https://github.com/Learner5200/acebook-MAICers) | A facebook clone built using Ruby on Rails | Ruby, Rails, HTML/CSS | RSpec, Capybara |
+| [Acebook](https://github.com/Learner5200/acebook-MAICers) | A group project in which we built a facebook clone using Ruby on Rails | Ruby, Rails, HTML/CSS, Postgresql, ActiveRecord | RSpec, Capybara |
 ## Education
 
 #### Makers Academy (October 2018 to December 2018)
