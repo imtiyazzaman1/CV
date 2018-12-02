@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-A former science teacher,  gym enthusiast and all around tech nerd. I love challenging myself and solving problems and I’m excited to take this passion into a new industry. Currently a Fellowship student at Makers Academy, I’m interested in working in a supportive environment which can challenge me and help me grow as a developer
+A former science teacher,  gym enthusiast and all around tech nerd. I love challenging myself and solving problems and I’m excited to take this passion into a new industry. Currently a fellow at Makers Academy, I’m interested in working in a supportive environment which can challenge me and help me grow as a developer
 
 ## Skills
 
@@ -28,15 +28,16 @@ My problems solving skills are also reflected in my approach to my strength and 
 
 | Projects | Summary  | Technologies | Testing  |
 | -------- | -------- | ------------ | -------- |
-
+| [Chitter](https://github.com/imtiyazzaman1/chitter-challenge) | A twitter clone built using an MVC architecture | Ruby, HTML/CSS Sinatra, BCrypt, Postgresql | RSpec, Capybara |
+| [News Summary](https://github.com/imtiyazzaman1/news-summary-challenge) | A single page web app designed to display the headlines and summarise article from the Guardian | JavaScript, HTML/CSS | My own testing framework   |
+| [Acebook](https://github.com/Learner5200/acebook-MAICers) | A facebook clone built using Ruby on Rails | Ruby, Rails, HTML/CSS | RSpec, Capybara |
 ## Education
 
 #### Makers Academy (October 2018 to December 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
+- Curious and passionate about code - I regularly continued researching during the evening and after completing weekend challenges to consolidate and gain a thorough appreciation of what I had learned
+- Fast, independent learner - Regularly exposed to new processes and technologies helped refine my process of learning
+- Great collaborator - Frequent pair programming and group work means I'm comfortable working with others as well as giving and receiving feedback
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
